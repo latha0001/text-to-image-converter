@@ -78,3 +78,6 @@ You can customize the appearance and behavior of the text-to-image conversion by
 * **Fonts**: Add or change fonts by importing them in your CSS or using Tailwind's font utilities.
 * **Image Format**: Modify the image generation logic in the relevant component to change the output format (e.g., PNG, JPEG).
 
+  ![Screenshot 2025-06-04 224054](https://github.com/user-attachments/assets/7e81c0b4-4be4-4571-a2a8-c243a204b521)
+
+
